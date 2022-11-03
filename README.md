@@ -1,4 +1,5 @@
-> README.md (Srilokh Karuturi)
+## Bank Simulation using Threads
+
 Project will simulate customers, tellers, bank manager as threads. We will use a semaphore to conduct the constraints
 
 – List the files included in the archive and their purpose
