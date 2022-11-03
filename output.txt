@@ -1,0 +1,748 @@
+The bank has opened up for the day.
+Customer 1 is going to the bank.
+Customer 1 is waiting in line.
+Customer 1 is selecting a teller.
+Customer 1 goes to Teller 1.
+Customer 1 introduces itself to Teller 1.
+Customer 1 asks for a deposit transaction.
+Customer 1 is waiting.
+1 from customer
+Customer 1 is done with his deposit transaction.
+Teller 1 is serving Customer 1.
+Teller 1 is handling deposit.
+1 from teller
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Customer 2 is going to the bank.
+Customer 2 is waiting in line.
+Customer 2 is selecting a teller.
+Customer 2 goes to Teller 1.
+Customer 2 introduces itself to Teller 1.
+Customer 2 asks for a deposit transaction.
+Customer 2 is waiting.
+0 from customer
+Teller 3 is serving Customer 2.
+Teller 3 is handling deposit.
+0 from teller
+Customer 3 is going to the bank.
+Customer 3 is waiting in line.
+Customer 3 is selecting a teller.
+Customer 3 goes to Teller 2.
+Customer 3 introduces itself to Teller 2.
+Customer 3 asks for a withdrawal transaction.
+Customer 3 is waiting.
+0 from customer
+Teller 2 is serving Customer 3.
+Teller 2 is handling withdrawal.
+0 from teller
+Customer 4 is going to the bank.
+Customer 4 is waiting in line.
+Customer 4 is selecting a teller.
+Customer 4 goes to Teller 1.
+Customer 4 introduces itself to Teller 1.
+Customer 4 asks for a deposit transaction.
+Customer 4 is waiting.
+0 from customer
+Customer 5 is going to the bank.
+Customer 5 is waiting in line.
+Customer 5 is selecting a teller.
+Customer 6 is going to the bank.
+Customer 6 is waiting in line.
+Customer 6 is selecting a teller.
+Customer 7 is going to the bank.
+Customer 7 is waiting in line.
+Customer 7 is selecting a teller.
+Customer 8 is going to the bank.
+Customer 8 is waiting in line.
+Customer 8 is selecting a teller.
+Customer 9 is going to the bank.
+Customer 9 is waiting in line.
+Customer 9 is selecting a teller.
+Customer 10 is going to the bank.
+Customer 10 is waiting in line.
+Customer 10 is selecting a teller.
+Customer 11 is going to the bank.
+Customer 11 is waiting in line.
+Customer 11 is selecting a teller.
+Customer 12 is going to the bank.
+Customer 12 is waiting in line.
+Customer 12 is selecting a teller.
+Customer 13 is going to the bank.
+Customer 13 is waiting in line.
+Customer 13 is selecting a teller.
+Customer 14 is going to the bank.
+Customer 14 is waiting in line.
+Customer 14 is selecting a teller.
+Customer 15 is going to the bank.
+Customer 15 is waiting in line.
+Customer 15 is selecting a teller.
+Customer 16 is going to the bank.
+Customer 16 is waiting in line.
+Customer 16 is selecting a teller.
+Customer 17 is going to the bank.
+Customer 17 is waiting in line.
+Customer 17 is selecting a teller.
+Customer 18 is going to the bank.
+Customer 18 is waiting in line.
+Customer 18 is selecting a teller.
+Customer 19 is going to the bank.
+Customer 19 is waiting in line.
+Customer 19 is selecting a teller.
+Customer 20 is going to the bank.
+Customer 20 is waiting in line.
+Customer 20 is selecting a teller.
+Customer 21 is going to the bank.
+Customer 21 is waiting in line.
+Customer 21 is selecting a teller.
+Customer 22 is going to the bank.
+Customer 22 is waiting in line.
+Customer 22 is selecting a teller.
+Customer 23 is going to the bank.
+Customer 23 is waiting in line.
+Customer 23 is selecting a teller.
+Customer 24 is going to the bank.
+Customer 24 is waiting in line.
+Customer 24 is selecting a teller.
+Customer 25 is going to the bank.
+Customer 25 is waiting in line.
+Customer 25 is selecting a teller.
+Customer 26 is going to the bank.
+Customer 26 is waiting in line.
+Customer 26 is selecting a teller.
+Customer 27 is going to the bank.
+Customer 27 is waiting in line.
+Customer 27 is selecting a teller.
+Customer 28 is going to the bank.
+Customer 28 is waiting in line.
+Customer 28 is selecting a teller.
+Customer 29 is going to the bank.
+Customer 29 is waiting in line.
+Customer 29 is selecting a teller.
+Customer 30 is going to the bank.
+Customer 30 is waiting in line.
+Customer 30 is selecting a teller.
+Customer 31 is going to the bank.
+Customer 31 is waiting in line.
+Customer 31 is selecting a teller.
+Customer 32 is going to the bank.
+Customer 32 is waiting in line.
+Customer 32 is selecting a teller.
+Customer 33 is going to the bank.
+Customer 33 is waiting in line.
+Customer 33 is selecting a teller.
+Customer 34 is going to the bank.
+Customer 34 is waiting in line.
+Customer 34 is selecting a teller.
+Customer 35 is going to the bank.
+Customer 35 is waiting in line.
+Customer 35 is selecting a teller.
+Customer 36 is going to the bank.
+Customer 36 is waiting in line.
+Customer 36 is selecting a teller.
+Customer 37 is going to the bank.
+Customer 37 is waiting in line.
+Customer 37 is selecting a teller.
+Customer 38 is going to the bank.
+Customer 38 is waiting in line.
+Customer 38 is selecting a teller.
+Customer 39 is going to the bank.
+Customer 39 is waiting in line.
+Customer 39 is selecting a teller.
+Customer 40 is going to the bank.
+Customer 40 is waiting in line.
+Customer 40 is selecting a teller.
+Customer 41 is going to the bank.
+Customer 41 is waiting in line.
+Customer 41 is selecting a teller.
+Customer 42 is going to the bank.
+Customer 42 is waiting in line.
+Customer 42 is selecting a teller.
+Customer 43 is going to the bank.
+Customer 43 is waiting in line.
+Customer 43 is selecting a teller.
+Customer 44 is going to the bank.
+Customer 44 is waiting in line.
+Customer 44 is selecting a teller.
+Customer 45 is going to the bank.
+Customer 45 is waiting in line.
+Customer 45 is selecting a teller.
+Customer 46 is going to the bank.
+Customer 46 is waiting in line.
+Customer 46 is selecting a teller.
+Customer 47 is going to the bank.
+Customer 47 is waiting in line.
+Customer 47 is selecting a teller.
+Customer 48 is going to the bank.
+Customer 48 is waiting in line.
+Customer 48 is selecting a teller.
+Customer 49 is going to the bank.
+Customer 49 is waiting in line.
+Customer 49 is selecting a teller.
+Customer 50 is going to the bank.
+Customer 50 is waiting in line.
+Customer 50 is selecting a teller.
+Teller 1 is finished handling deposit.
+Teller 1 is serving Customer 4.
+Teller 1 is handling deposit.
+1 from teller
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Teller 1 is finished handling deposit.
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling deposit.
+Customer 3 is done with his withdrawal transaction.
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Customer 5 goes to Teller 1.
+Customer 5 introduces itself to Teller 1.
+Customer 5 asks for a withdrawal transaction.
+Customer 5 is waiting.
+0 from customer
+Teller 1 is serving Customer 5.
+Teller 1 is handling withdrawal.
+0 from teller
+Teller 2 is finished handling withdrawal.
+Customer 4 is done with his deposit transaction.
+Customer 2 is done with his deposit transaction.
+Customer 6 goes to Teller 2.
+Customer 6 introduces itself to Teller 2.
+Customer 6 asks for a withdrawal transaction.
+Customer 6 is waiting.
+1 from customer
+Customer 6 is done with his withdrawal transaction.
+Customer 5 is done with his withdrawal transaction.
+Teller 3 is serving Customer 6.
+Teller 3 is handling withdrawal.
+1 from teller
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Customer 8 goes to Teller 1.
+Customer 8 introduces itself to Teller 1.
+Customer 8 asks for a deposit transaction.
+Customer 8 is waiting.
+0 from customer
+Customer 9 goes to Teller 2.
+Customer 9 introduces itself to Teller 2.
+Customer 9 asks for a withdrawal transaction.
+Customer 9 is waiting.
+0 from customer
+Customer 7 goes to Teller 1.
+Customer 7 introduces itself to Teller 1.
+Customer 7 asks for a withdrawal transaction.
+Customer 7 is waiting.
+0 from customer
+Teller 2 is serving Customer 8.
+Teller 2 is handling deposit.
+0 from teller
+Teller 3 is finished handling withdrawal.
+Teller 3 is serving Customer 9.
+Teller 3 is handling withdrawal.
+1 from teller
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling withdrawal.
+Teller 3 is serving Customer 7.
+Teller 3 is handling withdrawal.
+1 from teller
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling withdrawal.
+Customer 9 is done with his withdrawal transaction.
+Customer 7 is done with his withdrawal transaction.
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Customer 11 goes to Teller 2.
+Customer 11 introduces itself to Teller 2.
+Customer 11 asks for a withdrawal transaction.
+Customer 11 is waiting.
+0 from customer
+Customer 10 goes to Teller 1.
+Customer 10 introduces itself to Teller 1.
+Customer 10 asks for a withdrawal transaction.
+Customer 10 is waiting.
+0 from customer
+Teller 3 is serving Customer 11.
+Teller 3 is handling withdrawal.
+0 from teller
+Teller 2 is finished handling deposit.
+Teller 2 is serving Customer 10.
+Teller 2 is handling withdrawal.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling withdrawal.
+Customer 8 is done with his deposit transaction.
+Customer 11 is done with his withdrawal transaction.
+Customer 12 goes to Teller 2.
+Customer 12 introduces itself to Teller 2.
+Customer 12 asks for a deposit transaction.
+Customer 12 is waiting.
+1 from customer
+Customer 12 is done with his deposit transaction.
+Customer 10 is done with his withdrawal transaction.
+Customer 13 goes to Teller 1.
+Customer 13 introduces itself to Teller 1.
+Customer 13 asks for a withdrawal transaction.
+Customer 13 is waiting.
+1 from customer
+Customer 13 is done with his withdrawal transaction.
+Teller 2 is serving Customer 12.
+Teller 2 is handling deposit.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Customer 14 goes to Teller 1.
+Customer 14 introduces itself to Teller 1.
+Customer 14 asks for a withdrawal transaction.
+Customer 14 is waiting.
+0 from customer
+Customer 15 goes to Teller 2.
+Customer 15 introduces itself to Teller 2.
+Customer 15 asks for a deposit transaction.
+Customer 15 is waiting.
+0 from customer
+Customer 16 goes to Teller 1.
+Customer 16 introduces itself to Teller 1.
+Customer 16 asks for a deposit transaction.
+Customer 16 is waiting.
+0 from customer
+Teller 2 is finished handling deposit.
+Teller 2 is serving Customer 13.
+Teller 2 is handling withdrawal.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling withdrawal.
+Teller 2 is serving Customer 14.
+Teller 2 is handling withdrawal.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling withdrawal.
+Teller 2 is serving Customer 15.
+Teller 2 is handling deposit.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling deposit.
+Teller 2 is serving Customer 16.
+Teller 2 is handling deposit.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling deposit.
+Customer 16 is done with his deposit transaction.
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Customer 17 goes to Teller 1.
+Customer 17 introduces itself to Teller 1.
+Customer 17 asks for a deposit transaction.
+Customer 17 is waiting.
+0 from customer
+Teller 2 is serving Customer 17.
+Teller 2 is handling deposit.
+0 from teller
+Teller 3 is finished handling withdrawal.
+Customer 14 is done with his withdrawal transaction.
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Customer 18 goes to Teller 1.
+Customer 18 introduces itself to Teller 1.
+Customer 18 asks for a withdrawal transaction.
+Customer 18 is waiting.
+0 from customer
+Teller 3 is serving Customer 18.
+Teller 3 is handling withdrawal.
+0 from teller
+Teller 1 is finished handling withdrawal.
+Customer 15 is done with his deposit transaction.
+Customer 17 is done with his deposit transaction.
+Customer 19 goes to Teller 2.
+Customer 19 introduces itself to Teller 2.
+Customer 19 asks for a deposit transaction.
+Customer 19 is waiting.
+1 from customer
+Customer 19 is done with his deposit transaction.
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Customer 20 goes to Teller 2.
+Customer 20 introduces itself to Teller 2.
+Customer 20 asks for a withdrawal transaction.
+Customer 20 is waiting.
+0 from customer
+Teller 1 is serving Customer 19.
+Teller 1 is handling deposit.
+0 from teller
+Customer 21 goes to Teller 1.
+Customer 21 introduces itself to Teller 1.
+Customer 21 asks for a deposit transaction.
+Customer 21 is waiting.
+0 from customer
+Teller 2 is finished handling deposit.
+Teller 2 is serving Customer 20.
+Teller 2 is handling withdrawal.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling withdrawal.
+Teller 2 is serving Customer 21.
+Teller 2 is handling deposit.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling deposit.
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Teller 1 is finished handling deposit.
+Customer 18 is done with his withdrawal transaction.
+Customer 21 is done with his deposit transaction.
+Customer 22 goes to Teller 2.
+Customer 22 introduces itself to Teller 2.
+Customer 22 asks for a deposit transaction.
+Customer 22 is waiting.
+1 from customer
+Customer 22 is done with his deposit transaction.
+Customer 20 is done with his withdrawal transaction.
+Customer 23 goes to Teller 1.
+Customer 23 introduces itself to Teller 1.
+Customer 23 asks for a deposit transaction.
+Customer 23 is waiting.
+1 from customer
+Customer 23 is done with his deposit transaction.
+Customer 26 goes to Teller 1.
+Customer 26 introduces itself to Teller 1.
+Customer 26 asks for a deposit transaction.
+Customer 26 is waiting.
+1 from customer
+Customer 26 is done with his deposit transaction.
+Customer 27 goes to Teller 1.
+Customer 27 introduces itself to Teller 1.
+Customer 27 asks for a deposit transaction.
+Customer 27 is waiting.
+1 from customer
+Customer 27 is done with his deposit transaction.
+Customer 28 goes to Teller 1.
+Customer 28 introduces itself to Teller 1.
+Customer 28 asks for a withdrawal transaction.
+Customer 28 is waiting.
+0 from customer
+Teller 3 is finished handling withdrawal.
+Teller 3 is serving Customer 26.
+Teller 3 is handling deposit.
+1 from teller
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling deposit.
+Teller 3 is serving Customer 27.
+Teller 3 is handling deposit.
+1 from teller
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling deposit.
+Teller 3 is serving Customer 28.
+Teller 3 is handling 25.
+1 from teller
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling 25.
+Teller 3 is serving Customer withdrawal.
+Teller 3 is handling 24.
+1 from teller
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling 24.
+Teller 3 is serving Customer deposit.
+Teller 3 is handling withdrawal.
+1 from teller
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling withdrawal.
+Customer 25 is done with his withdrawal transaction.
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Customer 29 goes to Teller 1.
+Customer 29 introduces itself to Teller 1.
+Customer 29 asks for a withdrawal transaction.
+Customer 29 is waiting.
+0 from customer
+Teller 3 is serving Customer 29.
+Teller 3 is handling withdrawal.
+0 from teller
+Teller 2 is finished handling deposit.
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Teller 1 is finished handling deposit.
+Customer 24 is done with his deposit transaction.
+Customer 28 is done with his withdrawal transaction.
+Customer 30 goes to Teller 2.
+Customer 30 introduces itself to Teller 2.
+Customer 30 asks for a deposit transaction.
+Customer 30 is waiting.
+1 from customer
+Customer 30 is done with his deposit transaction.
+Customer 29 is done with his withdrawal transaction.
+Customer 31 goes to Teller 1.
+Customer 31 introduces itself to Teller 1.
+Customer 31 asks for a deposit transaction.
+Customer 31 is waiting.
+1 from customer
+Customer 31 is done with his deposit transaction.
+Teller 2 is serving Customer 30.
+Teller 2 is handling deposit.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 1 is serving Customer 31.
+Teller 1 is handling deposit.
+0 from teller
+Customer 32 goes to Teller 1.
+Customer 32 introduces itself to Teller 1.
+Customer 32 asks for a deposit transaction.
+Customer 32 is waiting.
+0 from customer
+Customer 33 goes to Teller 2.
+Customer 33 introduces itself to Teller 2.
+Customer 33 asks for a deposit transaction.
+Customer 33 is waiting.
+0 from customer
+Customer 34 goes to Teller 1.
+Customer 34 introduces itself to Teller 1.
+Customer 34 asks for a withdrawal transaction.
+Customer 34 is waiting.
+0 from customer
+Teller 2 is finished handling deposit.
+Teller 2 is serving Customer 32.
+Teller 2 is handling deposit.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling deposit.
+Teller 2 is serving Customer 33.
+Teller 2 is handling deposit.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling deposit.
+Teller 2 is serving Customer 34.
+Teller 2 is handling withdrawal.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling withdrawal.
+Customer 33 is done with his deposit transaction.
+Customer 34 is done with his withdrawal transaction.
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Customer 35 goes to Teller 2.
+Customer 35 introduces itself to Teller 2.
+Customer 35 asks for a deposit transaction.
+Customer 35 is waiting.
+0 from customer
+Customer 36 goes to Teller 1.
+Customer 36 introduces itself to Teller 1.
+Customer 36 asks for a withdrawal transaction.
+Customer 36 is waiting.
+0 from customer
+Teller 2 is serving Customer 35.
+Teller 2 is handling deposit.
+0 from teller
+Teller 1 is finished handling deposit.
+Teller 1 is serving Customer 36.
+Teller 1 is handling withdrawal.
+1 from teller
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Teller 1 is finished handling withdrawal.
+Customer 32 is done with his deposit transaction.
+Customer 35 is done with his deposit transaction.
+Customer 37 goes to Teller 2.
+Customer 37 introduces itself to Teller 2.
+Customer 37 asks for a deposit transaction.
+Customer 37 is waiting.
+1 from customer
+Customer 37 is done with his deposit transaction.
+Teller 1 is serving Customer 37.
+Teller 1 is handling deposit.
+1 from teller
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Customer 39 goes to Teller 2.
+Customer 39 introduces itself to Teller 2.
+Customer 39 asks for a withdrawal transaction.
+Customer 39 is waiting.
+0 from customer
+Customer 38 goes to Teller 1.
+Customer 38 introduces itself to Teller 1.
+Customer 38 asks for a withdrawal transaction.
+Customer 38 is waiting.
+0 from customer
+Teller 1 is finished handling deposit.
+Teller 1 is serving Customer 39.
+Teller 1 is handling withdrawal.
+1 from teller
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Teller 1 is finished handling withdrawal.
+Teller 1 is serving Customer 38.
+Teller 1 is handling withdrawal.
+1 from teller
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Teller 1 is finished handling withdrawal.
+Customer 36 is done with his withdrawal transaction.
+Customer 38 is done with his withdrawal transaction.
+Customer 40 goes to Teller 2.
+Customer 40 introduces itself to Teller 2.
+Customer 40 asks for a withdrawal transaction.
+Customer 40 is waiting.
+1 from customer
+Customer 40 is done with his withdrawal transaction.
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Customer 41 goes to Teller 2.
+Customer 41 introduces itself to Teller 2.
+Customer 41 asks for a withdrawal transaction.
+Customer 41 is waiting.
+0 from customer
+Teller 1 is serving Customer 40.
+Teller 1 is handling withdrawal.
+0 from teller
+Customer 42 goes to Teller 1.
+Customer 42 introduces itself to Teller 1.
+Customer 42 asks for a deposit transaction.
+Customer 42 is waiting.
+0 from customer
+Teller 2 is finished handling deposit.
+Teller 2 is serving Customer 41.
+Teller 2 is handling withdrawal.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling withdrawal.
+Teller 2 is serving Customer 42.
+Teller 2 is handling deposit.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling deposit.
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Teller 1 is finished handling withdrawal.
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling withdrawal.
+Customer 42 is done with his deposit transaction.
+Customer 43 goes to Teller 1.
+Customer 43 introduces itself to Teller 1.
+Customer 43 asks for a withdrawal transaction.
+Customer 43 is waiting.
+1 from customer
+Customer 43 is done with his withdrawal transaction.
+Customer 39 is done with his withdrawal transaction.
+Teller 2 is serving Customer 43.
+Teller 2 is handling withdrawal.
+1 from teller
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Customer 44 goes to Teller 2.
+Customer 44 introduces itself to Teller 2.
+Customer 44 asks for a deposit transaction.
+Customer 44 is waiting.
+0 from customer
+Customer 45 goes to Teller 1.
+Customer 45 introduces itself to Teller 1.
+Customer 45 asks for a deposit transaction.
+Customer 45 is waiting.
+0 s done with his deposit transaction.
+Customer 26 goes to Teller 1.
+Customer 26 introduces itself to Teller 1.
+Customer 26 asks for a deposit transaction.
+Customer 26 is waiting.
+1 from customer
+Customer 26 is done with his deposit transaction.
+Customer 27 goes to Teller 1.
+Customer 27 introduces itself to Teller 1.
+Customer 27 asks for a deposit transaction.
+Customer 27 is waiting.
+1 from customer
+Customer 27 is done with his deposit transaction.
+Customer 28 goes to Teller 1.
+Customer 28 introduces itself to Teller 1.
+Teller 3 is serving Customer 44.
+Teller 3 is handling deposit.
+0 from teller
+Teller 1 is serving Customer 45.
+Teller 1 is handling deposit.
+0 from teller
+from customer
+Teller 2 is finished handling withdrawal.
+Customer 41 is done with his withdrawal transaction.
+Customer 44 is done with his deposit transaction.
+Customer 46 goes to Teller 2.
+Customer 46 introduces itself to Teller 2.
+Customer 46 asks for a deposit transaction.
+Customer 46 is waiting.
+1 from customer
+Customer 46 is done with his deposit transaction.
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 2 is serving Customer 46.
+Teller 2 is handling deposit.
+0 from teller
+Customer 48 goes to Teller 2.
+Customer 48 introduces itself to Teller 2.
+Customer 48 asks for a withdrawal transaction.
+Customer 48 is waiting.
+0 from customer
+Customer 47 goes to Teller 1.
+Customer 47 introduces itself to Teller 1.
+Customer 47 asks for a deposit transaction.
+Customer 47 is waiting.
+0 from customer
+Teller 3 is finished handling deposit.
+Teller 3 is serving Customer 48.
+Teller 3 is handling withdrawal.
+1 from teller
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling withdrawal.
+Teller 3 is serving Customer 47.
+Teller 3 is handling deposit.
+1 from teller
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling deposit.
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Teller 1 is finished handling deposit.
+Customer 48 is done with his withdrawal transaction.
+Customer 47 is done with his deposit transaction.
+Customer 45 is done with his deposit transaction.
+Customer 49 goes to Teller 1.
+Customer 49 introduces itself to Teller 1.
+Customer 49 asks for a withdrawal transaction.
+Customer 49 is waiting.
+1 from customer
+Customer 49 is done with his withdrawal transaction.
+Customer 50 goes to Teller 1.
+Customer 50 introduces itself to Teller 1.
+Customer 50 asks for a withdrawal transaction.
+Customer 50 is waiting.
+1 from customer
+Customer 50 is done with his withdrawal transaction.
+Teller 1 is serving Customer 49.
+Teller 1 is handling withdrawal.
+1 from teller
+Teller 1 is walking to the vault
+Teller is physically performing task.
+Teller 3 is serving Customer 50.
+Teller 3 is handling withdrawal.
+0 from teller
+Teller 1 is finished handling withdrawal.
+Teller 3 is walking to the vault
+Teller is physically performing task.
+Teller 3 is finished handling withdrawal.
+Teller 2 is walking to the vault
+Teller is physically performing task.
+Teller 2 is finished handling deposit.
